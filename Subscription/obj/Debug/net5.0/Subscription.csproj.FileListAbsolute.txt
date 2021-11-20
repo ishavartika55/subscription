@@ -1,0 +1,16 @@
+C:\Users\ishav\source\repos\Subscription\Subscription\bin\Debug\net5.0\Subscription.exe
+C:\Users\ishav\source\repos\Subscription\Subscription\bin\Debug\net5.0\Subscription.deps.json
+C:\Users\ishav\source\repos\Subscription\Subscription\bin\Debug\net5.0\Subscription.runtimeconfig.json
+C:\Users\ishav\source\repos\Subscription\Subscription\bin\Debug\net5.0\Subscription.runtimeconfig.dev.json
+C:\Users\ishav\source\repos\Subscription\Subscription\bin\Debug\net5.0\Subscription.dll
+C:\Users\ishav\source\repos\Subscription\Subscription\bin\Debug\net5.0\ref\Subscription.dll
+C:\Users\ishav\source\repos\Subscription\Subscription\bin\Debug\net5.0\Subscription.pdb
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\Subscription.csproj.AssemblyReference.cache
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\Subscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\Subscription.AssemblyInfoInputs.cache
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\Subscription.AssemblyInfo.cs
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\Subscription.csproj.CoreCompileInputs.cache
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\Subscription.dll
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\ref\Subscription.dll
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\Subscription.pdb
+C:\Users\ishav\source\repos\Subscription\Subscription\obj\Debug\net5.0\Subscription.genruntimeconfig.cache
